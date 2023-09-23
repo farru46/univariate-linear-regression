@@ -1,6 +1,8 @@
 from math import cos, pi, sin
 import numpy as np
 import pytest
+import sys
+sys.path.append("/Users/s0a067b/Documents/Learning2/unit_testing/univariate-linear-regression/src/")
 
 from models.train import split_into_training_and_testing_sets, train_model, model_test
 
