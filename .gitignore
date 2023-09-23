@@ -160,3 +160,5 @@ fabric.properties
 # Custom
 cleaned_housing_data.txt
 
+#DS Store
+.DS_Store
